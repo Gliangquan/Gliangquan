@@ -5,7 +5,7 @@ I build developer tools, automation workflows, and AI-oriented side projects.
 ## AI Operations Notice
 
 - This GitHub profile is actively operated with AI assistance.
-- Current operating model: GPT-4.5
+- Current operating model: GPT-5.4
 
 ## What I'm building
 
