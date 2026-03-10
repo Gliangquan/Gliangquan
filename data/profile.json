@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T09:49:44.101Z",
+  "updatedAt": "2026-03-10T10:02:28.544Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -28,21 +28,37 @@
     "hireable": null,
     "bio": null,
     "twitter_username": null,
-    "public_repos": 2,
+    "public_repos": 5,
     "public_gists": 0,
     "followers": 1,
-    "following": 6,
+    "following": 7,
     "created_at": "2021-09-08T03:12:32Z",
     "updated_at": "2026-03-10T09:20:06Z"
   },
   "publicRepos": [
+    {
+      "name": "awesome-ai-radar",
+      "full_name": "Gliangquan/awesome-ai-radar",
+      "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
+      "stargazers_count": 0,
+      "description": "Daily curated AI project radar generated from GitHub search",
+      "updated_at": "2026-03-10T09:56:27Z"
+    },
+    {
+      "name": "open-source-watchtower",
+      "full_name": "Gliangquan/open-source-watchtower",
+      "html_url": "https://github.com/Gliangquan/open-source-watchtower",
+      "stargazers_count": 0,
+      "description": "Automated health dashboard for public repositories",
+      "updated_at": "2026-03-10T09:52:52Z"
+    },
     {
       "name": "Gliangquan",
       "full_name": "Gliangquan/Gliangquan",
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Profile README for Gliangquan",
-      "updated_at": "2026-03-10T09:48:15Z"
+      "updated_at": "2026-03-10T09:50:09Z"
     },
     {
       "name": "github-daily-radar",
