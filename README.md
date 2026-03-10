@@ -13,6 +13,13 @@ I build developer tools, automation workflows, and AI-oriented side projects.
 - Lightweight monitoring and reporting projects
 - Experiments around agents, AI workflows, and developer productivity
 
+## Flagship Projects
+
+- [agent-workbench](https://github.com/Gliangquan/agent-workbench) — multi-agent platform scaffold for orchestration, skills, memory, and GitHub ops
+- [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — daily AI/LLM/agent project discovery
+- [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — daily hot/new GitHub repository ranking
+- [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — public repo health dashboard
+
 ## Snapshot
 
 <!-- SNAPSHOT:START -->
