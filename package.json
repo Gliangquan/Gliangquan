@@ -1,0 +1,8 @@
+{
+  "name": "gliangquan-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-profile.mjs"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "updatedAt": "2026-03-10T09:49:44.101Z",
+  "user": {
+    "login": "Gliangquan",
+    "id": 90298824,
+    "node_id": "MDQ6VXNlcjkwMjk4ODI0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/90298824?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Gliangquan",
+    "html_url": "https://github.com/Gliangquan",
+    "followers_url": "https://api.github.com/users/Gliangquan/followers",
+    "following_url": "https://api.github.com/users/Gliangquan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Gliangquan/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Gliangquan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Gliangquan/subscriptions",
+    "organizations_url": "https://api.github.com/users/Gliangquan/orgs",
+    "repos_url": "https://api.github.com/users/Gliangquan/repos",
+    "events_url": "https://api.github.com/users/Gliangquan/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Gliangquan/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "LeungQ",
+    "company": "四川工业科技学院",
+    "blog": "Gliangquan.github.io",
+    "location": "chengdu",
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 2,
+    "public_gists": 0,
+    "followers": 1,
+    "following": 6,
+    "created_at": "2021-09-08T03:12:32Z",
+    "updated_at": "2026-03-10T09:20:06Z"
+  },
+  "publicRepos": [
+    {
+      "name": "Gliangquan",
+      "full_name": "Gliangquan/Gliangquan",
+      "html_url": "https://github.com/Gliangquan/Gliangquan",
+      "stargazers_count": 0,
+      "description": "Profile README for Gliangquan",
+      "updated_at": "2026-03-10T09:48:15Z"
+    },
+    {
+      "name": "github-daily-radar",
+      "full_name": "Gliangquan/github-daily-radar",
+      "html_url": "https://github.com/Gliangquan/github-daily-radar",
+      "stargazers_count": 0,
+      "description": "Daily GitHub hot/new radar with auto-updated README via GitHub Actions",
+      "updated_at": "2026-03-10T09:44:36Z"
+    }
+  ]
+}
