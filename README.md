@@ -23,8 +23,8 @@ I build developer tools, automation workflows, and AI-oriented side projects.
 ## Snapshot
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-03-10T10:02:28.544Z
-- Public repositories: 4
+- Updated: 2026-03-11T02:48:46.361Z
+- Public repositories: 6
 - Followers: 1
 - Following: 7
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
@@ -33,10 +33,12 @@ I build developer tools, automation workflows, and AI-oriented side projects.
 ## Public projects
 
 <!-- PROJECTS:START -->
-1. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI project radar generated from GitHub search (⭐ 0)
-2. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for public repositories (⭐ 0)
-3. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Profile README for Gliangquan (⭐ 0)
-4. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new radar with auto-updated README via GitHub Actions (⭐ 0)
+1. [Gliangquan/thesis-format-engine](https://github.com/Gliangquan/thesis-format-engine) — Rule-driven thesis formatting inspection and repair engine for DOCX documents (⭐ 0)
+2. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
+3. [Gliangquan/agent-workbench](https://github.com/Gliangquan/agent-workbench) — Multi-agent workbench for orchestration, skills, memory, and GitHub ops (⭐ 0)
+4. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
+5. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
+6. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
 <!-- PROJECTS:END -->
 
 ## Public automation matrix
