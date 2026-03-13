@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T02:48:46.361Z",
+  "updatedAt": "2026-03-13T02:51:20.169Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -28,14 +28,54 @@
     "hireable": null,
     "bio": null,
     "twitter_username": null,
-    "public_repos": 7,
+    "public_repos": 8,
     "public_gists": 0,
     "followers": 1,
     "following": 7,
     "created_at": "2021-09-08T03:12:32Z",
-    "updated_at": "2026-03-10T09:20:06Z"
+    "updated_at": "2026-03-12T09:57:47Z"
   },
   "publicRepos": [
+    {
+      "name": "github-daily-radar",
+      "full_name": "Gliangquan/github-daily-radar",
+      "html_url": "https://github.com/Gliangquan/github-daily-radar",
+      "stargazers_count": 0,
+      "description": "Daily GitHub hot/new repository radar with auto-updated README",
+      "updated_at": "2026-03-13T01:02:03Z"
+    },
+    {
+      "name": "WinForms",
+      "full_name": "Gliangquan/WinForms",
+      "html_url": "https://github.com/Gliangquan/WinForms",
+      "stargazers_count": 0,
+      "description": null,
+      "updated_at": "2026-03-12T16:02:18Z"
+    },
+    {
+      "name": "awesome-ai-radar",
+      "full_name": "Gliangquan/awesome-ai-radar",
+      "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
+      "stargazers_count": 0,
+      "description": "Daily curated AI, LLM, and agent project radar from GitHub",
+      "updated_at": "2026-03-12T03:16:22Z"
+    },
+    {
+      "name": "open-source-watchtower",
+      "full_name": "Gliangquan/open-source-watchtower",
+      "html_url": "https://github.com/Gliangquan/open-source-watchtower",
+      "stargazers_count": 0,
+      "description": "Automated health dashboard for monitoring public repositories",
+      "updated_at": "2026-03-12T03:12:04Z"
+    },
+    {
+      "name": "Gliangquan",
+      "full_name": "Gliangquan/Gliangquan",
+      "html_url": "https://github.com/Gliangquan/Gliangquan",
+      "stargazers_count": 0,
+      "description": "Gliangquan profile repository with AI-operated README",
+      "updated_at": "2026-03-11T02:48:50Z"
+    },
     {
       "name": "thesis-format-engine",
       "full_name": "Gliangquan/thesis-format-engine",
@@ -45,44 +85,12 @@
       "updated_at": "2026-03-11T02:18:11Z"
     },
     {
-      "name": "github-daily-radar",
-      "full_name": "Gliangquan/github-daily-radar",
-      "html_url": "https://github.com/Gliangquan/github-daily-radar",
-      "stargazers_count": 0,
-      "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-03-11T00:59:38Z"
-    },
-    {
       "name": "agent-workbench",
       "full_name": "Gliangquan/agent-workbench",
       "html_url": "https://github.com/Gliangquan/agent-workbench",
       "stargazers_count": 0,
       "description": "Multi-agent workbench for orchestration, skills, memory, and GitHub ops",
       "updated_at": "2026-03-10T15:19:22Z"
-    },
-    {
-      "name": "Gliangquan",
-      "full_name": "Gliangquan/Gliangquan",
-      "html_url": "https://github.com/Gliangquan/Gliangquan",
-      "stargazers_count": 0,
-      "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-03-10T11:05:56Z"
-    },
-    {
-      "name": "awesome-ai-radar",
-      "full_name": "Gliangquan/awesome-ai-radar",
-      "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
-      "stargazers_count": 0,
-      "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-03-10T11:05:09Z"
-    },
-    {
-      "name": "open-source-watchtower",
-      "full_name": "Gliangquan/open-source-watchtower",
-      "html_url": "https://github.com/Gliangquan/open-source-watchtower",
-      "stargazers_count": 0,
-      "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-03-10T11:05:08Z"
     }
   ]
 }
