@@ -1,52 +1,53 @@
-# Hi there, I'm Gliangquan 👋
+<div align="center">
+  <h1>Gliangquan</h1>
+  <p><strong>AI Systems · Automation · Developer Tooling</strong></p>
+  <p>Building small, sharp, useful software with an automation-first mindset.</p>
+</div>
 
-I build developer tools, automation workflows, and AI-oriented side projects.
+```text
+focus = agents + workflows + devtools + practical products
+```
 
-## AI Operations Notice
+## About
 
-- This GitHub profile is actively operated with AI assistance.
-- Current operating model: GPT-5.4
+I build lightweight tools around AI workflows, repository automation, and developer productivity.  
+Most of my work aims to make daily engineering tasks clearer, faster, and easier to operate.
 
-## What I'm building
+## Selected Work
 
-- Public GitHub automations that ship useful daily updates
-- Lightweight monitoring and reporting projects
-- Experiments around agents, AI workflows, and developer productivity
+- [agent-workbench](https://github.com/Gliangquan/agent-workbench) — multi-agent workspace for orchestration, skills, memory, and GitHub operations
+- [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — curated radar for AI, LLM, and agent projects
+- [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — automated daily GitHub repository tracking
+- [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — monitoring-oriented view of open-source repository health
 
-## Flagship Projects
-
-- [agent-workbench](https://github.com/Gliangquan/agent-workbench) — multi-agent platform scaffold for orchestration, skills, memory, and GitHub ops
-- [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — daily AI/LLM/agent project discovery
-- [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — daily hot/new GitHub repository ranking
-- [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — public repo health dashboard
-
-## Snapshot
+## Live Signal
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-03-20T03:09:26.116Z
+- Updated: 2026-03-20T04:47:25.810Z
 - Public repositories: 7
 - Followers: 1
 - Following: 7
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
 <!-- SNAPSHOT:END -->
 
-## Public projects
+## Public Surface
 
 <!-- PROJECTS:START -->
-1. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
-2. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-3. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
-4. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
+1. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
+2. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+3. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
+4. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
 5. [Gliangquan/WinForms](https://github.com/Gliangquan/WinForms) — No description yet. (⭐ 0)
 6. [Gliangquan/thesis-format-engine](https://github.com/Gliangquan/thesis-format-engine) — Rule-driven thesis formatting inspection and repair engine for DOCX documents (⭐ 0)
 <!-- PROJECTS:END -->
 
-## Public automation matrix
+## Direction
 
-- [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — daily hot/new GitHub ranking
-- [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — public repository health dashboard
-- [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — daily AI/Agent/LLM project picks
+- AI agents and workflow orchestration
+- practical developer tooling
+- automation-driven repository operations
+- small products with clear utility
 
-## Automation
+---
 
-This profile README is refreshed automatically every day via GitHub Actions.
+This profile README refreshes automatically via GitHub Actions.
