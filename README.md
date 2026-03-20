@@ -1,39 +1,46 @@
-<div align="center">
-  <h1>Gliangquan</h1>
-  <p><strong>AI Agent Systems · Automation · Developer Tooling</strong></p>
-  <p>Designing practical software with an automation-first mindset.</p>
-</div>
+```text
+Gliangquan@github:~$ whoami
+LeungQ
 
-```bash
-$ profile
-name: LeungQ
-focus: agents / workflows / devtools / practical products
-mode: build small, ship fast, keep it useful
+Gliangquan@github:~$ profile --brief
+AI Agent Systems / Automation / Developer Tooling
+
+Gliangquan@github:~$ philosophy
+build small
+ship fast
+keep it useful
 ```
 
-## System Profile
+## ~/system
 
-I build lightweight systems around AI workflows, repository automation, and developer productivity.  
-My work is usually simple in shape, engineering-heavy in execution, and focused on real utility.
+I build practical software around AI workflows, repository automation, and developer productivity.
+Most projects stay lightweight in form, but engineering-focused in execution.
 
-## Featured Repositories
+## ~/featured
 
-- [agent-workbench](https://github.com/Gliangquan/agent-workbench) — multi-agent workspace for orchestration, skills, memory, and GitHub operations
-- [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — curated radar for AI, LLM, and agent projects
-- [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — automated daily GitHub repository tracking
-- [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — monitoring-oriented view of open-source repository health
+```text
+> agent-workbench        multi-agent orchestration workspace
+> awesome-ai-radar       curated AI / LLM / agent discovery
+> github-daily-radar     daily GitHub repository tracking
+> open-source-watchtower repository health monitoring
+```
 
-## Live Telemetry
+- [agent-workbench](https://github.com/Gliangquan/agent-workbench)
+- [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar)
+- [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
+- [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower)
+
+## ~/telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-03-20T04:48:57.517Z
+- Updated: 2026-03-20T04:50:23.040Z
 - Public repositories: 7
 - Followers: 1
 - Following: 7
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
 <!-- SNAPSHOT:END -->
 
-## Public Feed
+## ~/public-feed
 
 <!-- PROJECTS:START -->
 1. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
@@ -44,9 +51,11 @@ My work is usually simple in shape, engineering-heavy in execution, and focused 
 6. [Gliangquan/thesis-format-engine](https://github.com/Gliangquan/thesis-format-engine) — Rule-driven thesis formatting inspection and repair engine for DOCX documents (⭐ 0)
 <!-- PROJECTS:END -->
 
-## Active Direction
+## ~/stack
 
-`ai-agents` `automation` `github-ops` `devtools` `javascript` `java`
+```text
+ai-agents  automation  github-ops  devtools  javascript  java
+```
 
 ---
 
