@@ -33,7 +33,7 @@ Most projects stay lightweight in form, but engineering-focused in execution.
 ## ~/telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-03-21T02:46:51.470Z
+- Updated: 2026-03-22T03:20:19.130Z
 - Public repositories: 9
 - Followers: 1
 - Following: 7
@@ -43,12 +43,12 @@ Most projects stay lightweight in form, but engineering-focused in execution.
 ## ~/public-feed
 
 <!-- PROJECTS:START -->
-1. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
-2. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 0)
-3. [Gliangquan/doc-format-engine](https://github.com/Gliangquan/doc-format-engine) — Cross-platform, rule-driven document formatting inspection and repair engine for .docx files (⭐ 0)
-4. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
-5. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-6. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 2)
+2. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
+3. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
+4. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+5. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
+6. [Gliangquan/doc-format-engine](https://github.com/Gliangquan/doc-format-engine) — Cross-platform, rule-driven document formatting inspection and repair engine for .docx files (⭐ 0)
 <!-- PROJECTS:END -->
 
 ## ~/stack
