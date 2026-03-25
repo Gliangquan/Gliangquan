@@ -1,20 +1,34 @@
-<!-- 动态打字标题 -->
+<!-- 动态标题 / Hero -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81D8D0,100:36BCF7&height=180&section=header&text=LeungQ&fontSize=48&fontColor=ffffff&desc=AI%20Agents%20%7C%20Automation%20%7C%20Developer%20Tooling&descSize=18&descAlignY=62" alt="LeungQ banner" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=32&center=true&vCenter=true&width=640&color=81D8D0&lines=Hi+there%2C+I%27m+LeungQ.;AI+Agents+%2F+Automation+%2F+Developer+Tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&center=true&vCenter=true&width=760&color=81D8D0&lines=Hi+there%2C+I%27m+LeungQ.;Build+small+%C2%B7+Ship+fast+%C2%B7+Keep+it+useful.;AI+Agents+%2F+Automation+%2F+Developer+Tooling" alt="Typing SVG" />
   </a>
 </div>
 
-## Hi there 👋, I'm LeungQ!
+<div align="center">
+  <a href="https://github.com/Gliangquan"><img src="https://img.shields.io/badge/GitHub-Gliangquan-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://Gliangquan.github.io"><img src="https://img.shields.io/badge/Website-Gliangquan.github.io-0ea5e9?style=flat-square" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Automation-14b8a6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Chengdu-6366f1?style=flat-square" alt="Location" />
+</div>
+
+## Hi there, I'm LeungQ!
 
 ### My Contributions
 
-[![img](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 
-<!-- 个人&仓库信息 -->
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Gliangquan&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
- 
+<table>
+<tr>
+<td width="52%" valign="top">
+
 ### Info
 
 :crystal_ball: AI Agent Systems / Automation / Developer Tooling
@@ -27,24 +41,27 @@
 
 :round_pushpin: Chengdu, China
 
- <hr/>
-<!-- 个人技能信息 -->
+> I build practical software around AI workflows, repository automation, and developer productivity.
+> Most projects stay lightweight in form, but engineering-focused in execution.
+
+<hr/>
 
 ### Knowledge
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E11D48?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-7C3AED?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-292326?style=flat-square&logo=markdown" />
   <img alt="AI Agents" src="https://img.shields.io/badge/-AI%20Agents-0f172a?style=flat-square" />
+  <img alt="Automation" src="https://img.shields.io/badge/-Automation-0f766e?style=flat-square" />
 </p>
- <hr/>
-<!-- 常用工具信息 -->
+
+<hr/>
 
 ### Tools
 
@@ -56,30 +73,40 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
 
-
-<!-- 访客数统计徽标 -->
-
-<div align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Gliangquan" />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Gliangquan&style=flat-square&color=81D8D0" alt="visitors" />
 </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gliangquan&layout=compact&theme=chartreuse-dark" />
 
+</td>
+<td width="48%" valign="top">
 
-<!-- 推荐项目 --> 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gliangquan&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gliangquan&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+<!-- 推荐项目 -->
 ### RECOMMEND
-<p>
-  <a href='https://github.com/Gliangquan/pi-ui-bridge'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gliangquan&repo=pi-ui-bridge&theme=chartreuse-dark" /></a>
-  <hr/>
-  <a href='https://github.com/Gliangquan/awesome-ai-radar'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gliangquan&repo=awesome-ai-radar&theme=chartreuse-dark" /></a>
-  <hr/>
-  <a href='https://github.com/Gliangquan/open-source-watchtower'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gliangquan&repo=open-source-watchtower&theme=chartreuse-dark" /></a>
-<p>
- <hr/>
+
+<div align="center">
+  <a href="https://github.com/Gliangquan/pi-ui-bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gliangquan&repo=pi-ui-bridge&theme=chartreuse-dark&hide_border=true" alt="pi-ui-bridge" /></a>
+  <a href="https://github.com/Gliangquan/awesome-ai-radar"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gliangquan&repo=awesome-ai-radar&theme=chartreuse-dark&hide_border=true" alt="awesome-ai-radar" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Gliangquan/open-source-watchtower"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gliangquan&repo=open-source-watchtower&theme=chartreuse-dark&hide_border=true" alt="open-source-watchtower" /></a>
+  <a href="https://github.com/Gliangquan/github-daily-radar"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gliangquan&repo=github-daily-radar&theme=chartreuse-dark&hide_border=true" alt="github-daily-radar" /></a>
+</div>
 
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-03-25T08:22:41.303Z
+- Updated: 2026-03-25T08:29:02.288Z
 - Public repositories: 9
 - Followers: 1
 - Following: 7
@@ -98,7 +125,10 @@
 <!-- PROJECTS:END -->
 
 ### END
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=81D8D0&height=120&section=footer" /></div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81D8D0,100:36BCF7&height=120&section=footer" alt="footer" />
+</div>
 
 ---
 
