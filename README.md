@@ -106,7 +106,7 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-03-25T08:29:02.288Z
+- Updated: 2026-03-26T03:25:48.871Z
 - Public repositories: 9
 - Followers: 1
 - Following: 7
@@ -116,11 +116,11 @@
 ### Public Feed
 
 <!-- PROJECTS:START -->
-1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 8)
-2. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
-3. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-4. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
-5. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
+1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 9)
+2. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
+3. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
+4. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
+5. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
 6. [Gliangquan/doc-format-engine](https://github.com/Gliangquan/doc-format-engine) — Cross-platform, rule-driven document formatting inspection and repair engine for .docx files (⭐ 0)
 <!-- PROJECTS:END -->
 
