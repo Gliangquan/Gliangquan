@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T03:29:13.762Z",
+  "updatedAt": "2026-04-08T03:31:10.330Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,7 +42,15 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-04-07T01:13:14Z"
+      "updated_at": "2026-04-08T01:14:27Z"
+    },
+    {
+      "name": "pi-ui-bridge",
+      "full_name": "Gliangquan/pi-ui-bridge",
+      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
+      "stargazers_count": 17,
+      "description": "UI-to-code bridge for pi-coding-agent",
+      "updated_at": "2026-04-07T15:15:38Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-04-06T03:45:42Z"
+      "updated_at": "2026-04-07T03:36:30Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-04-06T03:41:43Z"
+      "updated_at": "2026-04-07T03:31:11Z"
     },
     {
       "name": "Gliangquan",
@@ -66,15 +74,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-04-06T03:39:00Z"
-    },
-    {
-      "name": "pi-ui-bridge",
-      "full_name": "Gliangquan/pi-ui-bridge",
-      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
-      "stargazers_count": 15,
-      "description": "UI-to-code bridge for pi-coding-agent",
-      "updated_at": "2026-04-04T17:48:59Z"
+      "updated_at": "2026-04-07T03:29:17Z"
     },
     {
       "name": "doc-format-engine",
