@@ -106,8 +106,8 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-04-10T03:39:19.349Z
-- Public repositories: 9
+- Updated: 2026-04-11T03:18:13.897Z
+- Public repositories: 10
 - Followers: 1
 - Following: 7
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
@@ -116,12 +116,12 @@
 ### Public Feed
 
 <!-- PROJECTS:START -->
-1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 21)
+1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 22)
 2. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
-3. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-4. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
-5. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
-6. [Gliangquan/doc-format-engine](https://github.com/Gliangquan/doc-format-engine) — Cross-platform, rule-driven document formatting inspection and repair engine for .docx files (⭐ 0)
+3. [Gliangquan/pi-web-overlay](https://github.com/Gliangquan/pi-web-overlay) — Browser overlay for UI-to-code workflow with Pi (⭐ 0)
+4. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
+5. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+6. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
 <!-- PROJECTS:END -->
 
 ### END
