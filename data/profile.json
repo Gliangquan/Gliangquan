@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T03:44:59.556Z",
+  "updatedAt": "2026-04-13T03:51:09.937Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,7 +42,31 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-04-12T01:18:50Z"
+      "updated_at": "2026-04-13T01:20:44Z"
+    },
+    {
+      "name": "awesome-ai-radar",
+      "full_name": "Gliangquan/awesome-ai-radar",
+      "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
+      "stargazers_count": 0,
+      "description": "Daily curated AI, LLM, and agent project radar from GitHub",
+      "updated_at": "2026-04-12T03:50:13Z"
+    },
+    {
+      "name": "open-source-watchtower",
+      "full_name": "Gliangquan/open-source-watchtower",
+      "html_url": "https://github.com/Gliangquan/open-source-watchtower",
+      "stargazers_count": 0,
+      "description": "Automated health dashboard for monitoring public repositories",
+      "updated_at": "2026-04-12T03:46:23Z"
+    },
+    {
+      "name": "Gliangquan",
+      "full_name": "Gliangquan/Gliangquan",
+      "html_url": "https://github.com/Gliangquan/Gliangquan",
+      "stargazers_count": 0,
+      "description": "Gliangquan profile repository with AI-operated README",
+      "updated_at": "2026-04-12T03:45:08Z"
     },
     {
       "name": "pi-ui-bridge",
@@ -51,30 +75,6 @@
       "stargazers_count": 24,
       "description": "UI-to-code bridge for pi-coding-agent",
       "updated_at": "2026-04-11T13:33:18Z"
-    },
-    {
-      "name": "awesome-ai-radar",
-      "full_name": "Gliangquan/awesome-ai-radar",
-      "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
-      "stargazers_count": 0,
-      "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-04-11T03:23:58Z"
-    },
-    {
-      "name": "open-source-watchtower",
-      "full_name": "Gliangquan/open-source-watchtower",
-      "html_url": "https://github.com/Gliangquan/open-source-watchtower",
-      "stargazers_count": 0,
-      "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-04-11T03:19:53Z"
-    },
-    {
-      "name": "Gliangquan",
-      "full_name": "Gliangquan/Gliangquan",
-      "html_url": "https://github.com/Gliangquan/Gliangquan",
-      "stargazers_count": 0,
-      "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-04-11T03:18:17Z"
     },
     {
       "name": "pi-web-overlay",
