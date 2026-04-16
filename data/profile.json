@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T03:37:51.688Z",
+  "updatedAt": "2026-04-16T03:45:32.376Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -28,7 +28,7 @@
     "hireable": null,
     "bio": null,
     "twitter_username": null,
-    "public_repos": 15,
+    "public_repos": 16,
     "public_gists": 0,
     "followers": 1,
     "following": 7,
@@ -37,12 +37,20 @@
   },
   "publicRepos": [
     {
+      "name": "ecuflash-pi-build",
+      "full_name": "Gliangquan/ecuflash-pi-build",
+      "html_url": "https://github.com/Gliangquan/ecuflash-pi-build",
+      "stargazers_count": 0,
+      "description": "ECUFlash project with CI Windows build",
+      "updated_at": "2026-04-16T03:40:56Z"
+    },
+    {
       "name": "github-daily-radar",
       "full_name": "Gliangquan/github-daily-radar",
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-04-15T01:16:29Z"
+      "updated_at": "2026-04-16T01:21:39Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-04-14T03:48:07Z"
+      "updated_at": "2026-04-15T03:46:32Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-04-14T03:42:53Z"
+      "updated_at": "2026-04-15T03:41:13Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +74,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-04-14T03:40:02Z"
+      "updated_at": "2026-04-15T03:37:55Z"
     },
     {
       "name": "pi-ui-bridge",

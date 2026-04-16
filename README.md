@@ -106,8 +106,8 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-04-15T03:37:51.688Z
-- Public repositories: 10
+- Updated: 2026-04-16T03:45:32.376Z
+- Public repositories: 11
 - Followers: 1
 - Following: 7
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
@@ -117,11 +117,11 @@
 
 <!-- PROJECTS:START -->
 1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 24)
-2. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
-3. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-4. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
-5. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
-6. [Gliangquan/pi-web-overlay](https://github.com/Gliangquan/pi-web-overlay) — Browser overlay for UI-to-code workflow with Pi (⭐ 0)
+2. [Gliangquan/ecuflash-pi-build](https://github.com/Gliangquan/ecuflash-pi-build) — ECUFlash project with CI Windows build (⭐ 0)
+3. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
+4. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
+5. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+6. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
 <!-- PROJECTS:END -->
 
 ### END
