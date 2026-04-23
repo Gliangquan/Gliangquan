@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T03:40:39.397Z",
+  "updatedAt": "2026-04-23T03:44:50.616Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -37,12 +37,20 @@
   },
   "publicRepos": [
     {
+      "name": "pi-ui-bridge",
+      "full_name": "Gliangquan/pi-ui-bridge",
+      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
+      "stargazers_count": 25,
+      "description": "UI-to-code bridge for pi-coding-agent",
+      "updated_at": "2026-04-23T02:46:08Z"
+    },
+    {
       "name": "github-daily-radar",
       "full_name": "Gliangquan/github-daily-radar",
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-04-22T01:17:24Z"
+      "updated_at": "2026-04-23T01:22:37Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-04-21T03:49:48Z"
+      "updated_at": "2026-04-22T03:46:31Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-04-21T03:45:50Z"
+      "updated_at": "2026-04-22T03:42:29Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +74,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-04-21T03:44:29Z"
+      "updated_at": "2026-04-22T03:40:44Z"
     },
     {
       "name": "ecuflash-pi-build",
@@ -75,14 +83,6 @@
       "stargazers_count": 0,
       "description": "ECUFlash project with CI Windows build",
       "updated_at": "2026-04-16T05:53:51Z"
-    },
-    {
-      "name": "pi-ui-bridge",
-      "full_name": "Gliangquan/pi-ui-bridge",
-      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
-      "stargazers_count": 24,
-      "description": "UI-to-code bridge for pi-coding-agent",
-      "updated_at": "2026-04-11T13:33:18Z"
     },
     {
       "name": "pi-web-overlay",
