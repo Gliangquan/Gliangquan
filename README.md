@@ -106,8 +106,8 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-04-26T03:54:40.775Z
-- Public repositories: 11
+- Updated: 2026-04-27T03:58:34.556Z
+- Public repositories: 14
 - Followers: 1
 - Following: 6
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
@@ -117,11 +117,11 @@
 
 <!-- PROJECTS:START -->
 1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 26)
-2. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
-3. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-4. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
-5. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
-6. [Gliangquan/ecuflash-pi-build](https://github.com/Gliangquan/ecuflash-pi-build) — ECUFlash project with CI Windows build (⭐ 0)
+2. [Gliangquan/foodpal](https://github.com/Gliangquan/foodpal) — No description yet. (⭐ 1)
+3. [Gliangquan/medpal](https://github.com/Gliangquan/medpal) — medpal (⭐ 1)
+4. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
+5. [Gliangquan/unifit](https://github.com/Gliangquan/unifit) — No description yet. (⭐ 0)
+6. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
 <!-- PROJECTS:END -->
 
 ### END
