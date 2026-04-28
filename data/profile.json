@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T04:03:50.174Z",
+  "updatedAt": "2026-04-28T07:38:21.215Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -37,6 +37,30 @@
   },
   "publicRepos": [
     {
+      "name": "awesome-ai-radar",
+      "full_name": "Gliangquan/awesome-ai-radar",
+      "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
+      "stargazers_count": 0,
+      "description": "Daily curated AI, LLM, and agent project radar from GitHub",
+      "updated_at": "2026-04-28T04:11:31Z"
+    },
+    {
+      "name": "open-source-watchtower",
+      "full_name": "Gliangquan/open-source-watchtower",
+      "html_url": "https://github.com/Gliangquan/open-source-watchtower",
+      "stargazers_count": 0,
+      "description": "Automated health dashboard for monitoring public repositories",
+      "updated_at": "2026-04-28T04:06:08Z"
+    },
+    {
+      "name": "Gliangquan",
+      "full_name": "Gliangquan/Gliangquan",
+      "html_url": "https://github.com/Gliangquan/Gliangquan",
+      "stargazers_count": 0,
+      "description": "Gliangquan profile repository with AI-operated README",
+      "updated_at": "2026-04-28T04:03:54Z"
+    },
+    {
       "name": "github-daily-radar",
       "full_name": "Gliangquan/github-daily-radar",
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
@@ -67,30 +91,6 @@
       "stargazers_count": 1,
       "description": "medpal",
       "updated_at": "2026-04-27T12:20:26Z"
-    },
-    {
-      "name": "awesome-ai-radar",
-      "full_name": "Gliangquan/awesome-ai-radar",
-      "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
-      "stargazers_count": 0,
-      "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-04-27T04:05:37Z"
-    },
-    {
-      "name": "open-source-watchtower",
-      "full_name": "Gliangquan/open-source-watchtower",
-      "html_url": "https://github.com/Gliangquan/open-source-watchtower",
-      "stargazers_count": 0,
-      "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-04-27T04:00:08Z"
-    },
-    {
-      "name": "Gliangquan",
-      "full_name": "Gliangquan/Gliangquan",
-      "html_url": "https://github.com/Gliangquan/Gliangquan",
-      "stargazers_count": 0,
-      "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-04-27T03:58:39Z"
     },
     {
       "name": "pi-ui-bridge",
