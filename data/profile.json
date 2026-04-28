@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T03:58:34.556Z",
+  "updatedAt": "2026-04-28T04:03:50.174Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,23 +42,7 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-04-27T01:25:21Z"
-    },
-    {
-      "name": "foodpal",
-      "full_name": "Gliangquan/foodpal",
-      "html_url": "https://github.com/Gliangquan/foodpal",
-      "stargazers_count": 1,
-      "description": null,
-      "updated_at": "2026-04-26T16:06:52Z"
-    },
-    {
-      "name": "medpal",
-      "full_name": "Gliangquan/medpal",
-      "html_url": "https://github.com/Gliangquan/medpal",
-      "stargazers_count": 1,
-      "description": "medpal",
-      "updated_at": "2026-04-26T16:06:48Z"
+      "updated_at": "2026-04-28T01:44:46Z"
     },
     {
       "name": "unifit",
@@ -66,7 +50,23 @@
       "html_url": "https://github.com/Gliangquan/unifit",
       "stargazers_count": 0,
       "description": null,
-      "updated_at": "2026-04-26T13:36:05Z"
+      "updated_at": "2026-04-27T14:51:37Z"
+    },
+    {
+      "name": "foodpal",
+      "full_name": "Gliangquan/foodpal",
+      "html_url": "https://github.com/Gliangquan/foodpal",
+      "stargazers_count": 1,
+      "description": null,
+      "updated_at": "2026-04-27T12:30:50Z"
+    },
+    {
+      "name": "medpal",
+      "full_name": "Gliangquan/medpal",
+      "html_url": "https://github.com/Gliangquan/medpal",
+      "stargazers_count": 1,
+      "description": "medpal",
+      "updated_at": "2026-04-27T12:20:26Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -74,7 +74,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-04-26T04:00:50Z"
+      "updated_at": "2026-04-27T04:05:37Z"
     },
     {
       "name": "open-source-watchtower",
@@ -82,7 +82,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-04-26T03:55:41Z"
+      "updated_at": "2026-04-27T04:00:08Z"
     },
     {
       "name": "Gliangquan",
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-04-26T03:54:45Z"
+      "updated_at": "2026-04-27T03:58:39Z"
     },
     {
       "name": "pi-ui-bridge",
