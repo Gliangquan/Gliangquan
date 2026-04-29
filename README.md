@@ -106,10 +106,10 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-04-28T07:38:21.215Z
-- Public repositories: 14
+- Updated: 2026-04-29T04:00:59.050Z
+- Public repositories: 15
 - Followers: 1
-- Following: 6
+- Following: 5
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
 <!-- SNAPSHOT:END -->
 
@@ -119,8 +119,8 @@
 1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 26)
 2. [Gliangquan/foodpal](https://github.com/Gliangquan/foodpal) — No description yet. (⭐ 1)
 3. [Gliangquan/medpal](https://github.com/Gliangquan/medpal) — medpal (⭐ 1)
-4. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-5. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+4. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
+5. [Gliangquan/FitPal](https://github.com/Gliangquan/FitPal) — server sync import (⭐ 0)
 6. [Gliangquan/Gliangquan](https://github.com/Gliangquan/Gliangquan) — Gliangquan profile repository with AI-operated README (⭐ 0)
 <!-- PROJECTS:END -->
 
