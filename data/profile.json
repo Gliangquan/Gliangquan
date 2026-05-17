@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T03:59:03.809Z",
+  "updatedAt": "2026-05-17T04:19:47.035Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -33,7 +33,7 @@
     "followers": 1,
     "following": 5,
     "created_at": "2021-09-08T03:12:32Z",
-    "updated_at": "2026-04-26T08:52:48Z"
+    "updated_at": "2026-05-16T08:31:15Z"
   },
   "publicRepos": [
     {
@@ -42,7 +42,7 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-05-16T01:47:40Z"
+      "updated_at": "2026-05-17T01:51:03Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +50,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-05-15T04:33:42Z"
+      "updated_at": "2026-05-16T04:07:58Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-05-15T04:18:20Z"
+      "updated_at": "2026-05-16T04:02:26Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-05-15T04:15:23Z"
+      "updated_at": "2026-05-16T03:59:07Z"
     },
     {
       "name": "FitPal",
