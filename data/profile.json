@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T04:34:34.979Z",
+  "updatedAt": "2026-05-21T04:41:52.277Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -37,12 +37,20 @@
   },
   "publicRepos": [
     {
+      "name": "pi-ui-bridge",
+      "full_name": "Gliangquan/pi-ui-bridge",
+      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
+      "stargazers_count": 28,
+      "description": "UI-to-code bridge for pi-coding-agent",
+      "updated_at": "2026-05-21T03:02:59Z"
+    },
+    {
       "name": "github-daily-radar",
       "full_name": "Gliangquan/github-daily-radar",
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-05-20T01:59:59Z"
+      "updated_at": "2026-05-21T01:59:21Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-05-19T04:39:55Z"
+      "updated_at": "2026-05-20T04:44:16Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-05-19T04:33:36Z"
+      "updated_at": "2026-05-20T04:36:25Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +74,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-05-19T04:32:14Z"
+      "updated_at": "2026-05-20T04:34:39Z"
     },
     {
       "name": "FitPal",
@@ -75,14 +83,6 @@
       "stargazers_count": 0,
       "description": "server sync import",
       "updated_at": "2026-05-06T01:08:21Z"
-    },
-    {
-      "name": "pi-ui-bridge",
-      "full_name": "Gliangquan/pi-ui-bridge",
-      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
-      "stargazers_count": 27,
-      "description": "UI-to-code bridge for pi-coding-agent",
-      "updated_at": "2026-05-02T02:33:50Z"
     },
     {
       "name": "foodpal",
