@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T04:40:31.518Z",
+  "updatedAt": "2026-05-31T04:48:46.021Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,7 +42,15 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-05-29T01:57:38Z"
+      "updated_at": "2026-05-31T02:06:08Z"
+    },
+    {
+      "name": "pi-ui-bridge",
+      "full_name": "Gliangquan/pi-ui-bridge",
+      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
+      "stargazers_count": 29,
+      "description": "UI-to-code bridge for pi-coding-agent",
+      "updated_at": "2026-05-30T14:54:12Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-05-28T04:48:27Z"
+      "updated_at": "2026-05-30T04:32:23Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-05-28T04:39:48Z"
+      "updated_at": "2026-05-30T04:17:27Z"
     },
     {
       "name": "Gliangquan",
@@ -66,15 +74,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-05-28T04:37:32Z"
-    },
-    {
-      "name": "pi-ui-bridge",
-      "full_name": "Gliangquan/pi-ui-bridge",
-      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
-      "stargazers_count": 28,
-      "description": "UI-to-code bridge for pi-coding-agent",
-      "updated_at": "2026-05-26T21:53:29Z"
+      "updated_at": "2026-05-29T04:40:35Z"
     },
     {
       "name": "FitPal",
