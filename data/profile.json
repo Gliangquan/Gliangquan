@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T03:29:01.858Z",
+  "updatedAt": "2026-08-06T03:32:50.487Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -28,7 +28,7 @@
     "hireable": null,
     "bio": null,
     "twitter_username": null,
-    "public_repos": 24,
+    "public_repos": 25,
     "public_gists": 0,
     "followers": 1,
     "following": 5,
@@ -37,12 +37,20 @@
   },
   "publicRepos": [
     {
+      "name": "ss-code",
+      "full_name": "Gliangquan/ss-code",
+      "html_url": "https://github.com/Gliangquan/ss-code",
+      "stargazers_count": 0,
+      "description": "shengshi-game",
+      "updated_at": "2026-08-06T02:34:18Z"
+    },
+    {
       "name": "github-daily-radar",
       "full_name": "Gliangquan/github-daily-radar",
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-08-05T01:20:06Z"
+      "updated_at": "2026-08-06T01:17:25Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-08-04T03:46:48Z"
+      "updated_at": "2026-08-05T03:42:18Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-08-04T03:36:40Z"
+      "updated_at": "2026-08-05T03:32:39Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +74,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-08-04T03:33:54Z"
+      "updated_at": "2026-08-05T03:29:06Z"
     },
     {
       "name": "pi-ui-bridge",
