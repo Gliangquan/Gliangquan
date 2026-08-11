@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T02:30:55.047Z",
+  "updatedAt": "2026-08-11T02:24:48.374Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -28,7 +28,7 @@
     "hireable": null,
     "bio": null,
     "twitter_username": null,
-    "public_repos": 25,
+    "public_repos": 26,
     "public_gists": 0,
     "followers": 1,
     "following": 5,
@@ -42,7 +42,23 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-08-10T00:46:42Z"
+      "updated_at": "2026-08-11T00:46:02Z"
+    },
+    {
+      "name": "pi-ui-bridge",
+      "full_name": "Gliangquan/pi-ui-bridge",
+      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
+      "stargazers_count": 31,
+      "description": "UI-to-code bridge for pi-coding-agent",
+      "updated_at": "2026-08-10T07:18:05Z"
+    },
+    {
+      "name": "skeleton-appearance-id",
+      "full_name": "Gliangquan/skeleton-appearance-id",
+      "html_url": "https://github.com/Gliangquan/skeleton-appearance-id",
+      "stargazers_count": 0,
+      "description": "skeleton-appearance-id",
+      "updated_at": "2026-08-10T06:30:15Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-08-09T02:34:19Z"
+      "updated_at": "2026-08-10T02:40:14Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +74,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-08-09T02:28:29Z"
+      "updated_at": "2026-08-10T02:34:05Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +82,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-08-09T02:26:18Z"
+      "updated_at": "2026-08-10T02:30:59Z"
     },
     {
       "name": "ss-code",
@@ -75,14 +91,6 @@
       "stargazers_count": 0,
       "description": "shengshi-game",
       "updated_at": "2026-08-06T02:34:18Z"
-    },
-    {
-      "name": "pi-ui-bridge",
-      "full_name": "Gliangquan/pi-ui-bridge",
-      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
-      "stargazers_count": 30,
-      "description": "UI-to-code bridge for pi-coding-agent",
-      "updated_at": "2026-06-01T19:31:08Z"
     },
     {
       "name": "FitPal",

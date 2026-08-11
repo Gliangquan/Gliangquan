@@ -106,8 +106,8 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-08-10T02:30:55.047Z
-- Public repositories: 16
+- Updated: 2026-08-11T02:24:48.374Z
+- Public repositories: 17
 - Followers: 1
 - Following: 5
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
@@ -116,12 +116,12 @@
 ### Public Feed
 
 <!-- PROJECTS:START -->
-1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 30)
+1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 31)
 2. [Gliangquan/foodpal](https://github.com/Gliangquan/foodpal) — No description yet. (⭐ 1)
 3. [Gliangquan/medpal](https://github.com/Gliangquan/medpal) — medpal (⭐ 1)
 4. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
-5. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
-6. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+5. [Gliangquan/skeleton-appearance-id](https://github.com/Gliangquan/skeleton-appearance-id) — skeleton-appearance-id (⭐ 0)
+6. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 0)
 <!-- PROJECTS:END -->
 
 ### END
