@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:55:14.244Z",
+  "updatedAt": "2026-08-22T01:47:54.035Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,7 +42,7 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-08-21T00:33:50Z"
+      "updated_at": "2026-08-22T00:30:44Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +50,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-08-20T01:57:44Z"
+      "updated_at": "2026-08-21T02:06:43Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-08-20T01:51:21Z"
+      "updated_at": "2026-08-21T01:57:27Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-08-20T01:49:14Z"
+      "updated_at": "2026-08-21T01:55:26Z"
     },
     {
       "name": "pi-ui-bridge",
