@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T01:55:24.811Z",
+  "updatedAt": "2026-08-25T01:49:53.069Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,7 +42,15 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-08-24T00:32:22Z"
+      "updated_at": "2026-08-25T00:31:41Z"
+    },
+    {
+      "name": "pi-ui-bridge",
+      "full_name": "Gliangquan/pi-ui-bridge",
+      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
+      "stargazers_count": 31,
+      "description": "UI-to-code bridge for pi-coding-agent",
+      "updated_at": "2026-08-24T21:29:49Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,15 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 0,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-08-23T02:08:05Z"
+      "updated_at": "2026-08-24T02:06:07Z"
+    },
+    {
+      "name": "Gliangquan",
+      "full_name": "Gliangquan/Gliangquan",
+      "html_url": "https://github.com/Gliangquan/Gliangquan",
+      "stargazers_count": 0,
+      "description": "Gliangquan profile repository with AI-operated README",
+      "updated_at": "2026-08-24T01:55:39Z"
     },
     {
       "name": "open-source-watchtower",
@@ -59,22 +75,6 @@
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
       "updated_at": "2026-08-23T01:59:41Z"
-    },
-    {
-      "name": "Gliangquan",
-      "full_name": "Gliangquan/Gliangquan",
-      "html_url": "https://github.com/Gliangquan/Gliangquan",
-      "stargazers_count": 0,
-      "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-08-23T01:57:57Z"
-    },
-    {
-      "name": "pi-ui-bridge",
-      "full_name": "Gliangquan/pi-ui-bridge",
-      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
-      "stargazers_count": 31,
-      "description": "UI-to-code bridge for pi-coding-agent",
-      "updated_at": "2026-08-10T07:18:05Z"
     },
     {
       "name": "skeleton-appearance-id",
