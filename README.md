@@ -106,8 +106,8 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-09-25T04:53:00.728Z
-- Public repositories: 17
+- Updated: 2026-09-26T04:52:48.419Z
+- Public repositories: 18
 - Followers: 2
 - Following: 5
 - Daily automation: [github-daily-radar](https://github.com/Gliangquan/github-daily-radar)
@@ -120,8 +120,8 @@
 2. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 1)
 3. [Gliangquan/foodpal](https://github.com/Gliangquan/foodpal) — No description yet. (⭐ 1)
 4. [Gliangquan/medpal](https://github.com/Gliangquan/medpal) — medpal (⭐ 1)
-5. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
-6. [Gliangquan/open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) — Automated health dashboard for monitoring public repositories (⭐ 0)
+5. [Gliangquan/localsend-social](https://github.com/Gliangquan/localsend-social) — localsend-social (⭐ 0)
+6. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
 <!-- PROJECTS:END -->
 
 ### END
