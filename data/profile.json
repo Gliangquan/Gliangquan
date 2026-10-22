@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T04:40:25.236Z",
+  "updatedAt": "2026-10-22T04:37:46.410Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,7 +42,15 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-10-21T02:15:11Z"
+      "updated_at": "2026-10-22T02:09:34Z"
+    },
+    {
+      "name": "pi-ui-bridge",
+      "full_name": "Gliangquan/pi-ui-bridge",
+      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
+      "stargazers_count": 31,
+      "description": "UI-to-code bridge for pi-coding-agent",
+      "updated_at": "2026-10-21T09:18:27Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 1,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-10-20T05:04:59Z"
+      "updated_at": "2026-10-21T05:06:12Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-10-20T04:51:19Z"
+      "updated_at": "2026-10-21T04:48:02Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +74,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-10-20T04:43:47Z"
+      "updated_at": "2026-10-21T04:40:29Z"
     },
     {
       "name": "localsend-social",
@@ -75,14 +83,6 @@
       "stargazers_count": 0,
       "description": "localsend-social",
       "updated_at": "2026-09-26T02:49:47Z"
-    },
-    {
-      "name": "pi-ui-bridge",
-      "full_name": "Gliangquan/pi-ui-bridge",
-      "html_url": "https://github.com/Gliangquan/pi-ui-bridge",
-      "stargazers_count": 30,
-      "description": "UI-to-code bridge for pi-coding-agent",
-      "updated_at": "2026-08-31T07:25:08Z"
     },
     {
       "name": "skeleton-appearance-id",
