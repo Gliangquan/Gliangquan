@@ -106,7 +106,7 @@
 ### Telemetry
 
 <!-- SNAPSHOT:START -->
-- Updated: 2026-10-23T04:43:37.992Z
+- Updated: 2026-10-24T04:30:41.251Z
 - Public repositories: 18
 - Followers: 2
 - Following: 5
@@ -117,8 +117,8 @@
 
 <!-- PROJECTS:START -->
 1. [Gliangquan/pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) — UI-to-code bridge for pi-coding-agent (⭐ 31)
-2. [Gliangquan/ecuflash-pi-build](https://github.com/Gliangquan/ecuflash-pi-build) — ECUFlash project with CI Windows build (⭐ 1)
-3. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 1)
+2. [Gliangquan/awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) — Daily curated AI, LLM, and agent project radar from GitHub (⭐ 1)
+3. [Gliangquan/ecuflash-pi-build](https://github.com/Gliangquan/ecuflash-pi-build) — ECUFlash project with CI Windows build (⭐ 1)
 4. [Gliangquan/foodpal](https://github.com/Gliangquan/foodpal) — No description yet. (⭐ 1)
 5. [Gliangquan/medpal](https://github.com/Gliangquan/medpal) — medpal (⭐ 1)
 6. [Gliangquan/github-daily-radar](https://github.com/Gliangquan/github-daily-radar) — Daily GitHub hot/new repository radar with auto-updated README (⭐ 0)
