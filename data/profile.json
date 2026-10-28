@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:58:06.543Z",
+  "updatedAt": "2026-10-28T05:34:17.071Z",
   "user": {
     "login": "Gliangquan",
     "id": 90298824,
@@ -42,7 +42,7 @@
       "html_url": "https://github.com/Gliangquan/github-daily-radar",
       "stargazers_count": 0,
       "description": "Daily GitHub hot/new repository radar with auto-updated README",
-      "updated_at": "2026-10-27T02:38:44Z"
+      "updated_at": "2026-10-28T02:47:49Z"
     },
     {
       "name": "awesome-ai-radar",
@@ -50,7 +50,7 @@
       "html_url": "https://github.com/Gliangquan/awesome-ai-radar",
       "stargazers_count": 1,
       "description": "Daily curated AI, LLM, and agent project radar from GitHub",
-      "updated_at": "2026-10-26T05:06:19Z"
+      "updated_at": "2026-10-27T05:21:31Z"
     },
     {
       "name": "open-source-watchtower",
@@ -58,7 +58,7 @@
       "html_url": "https://github.com/Gliangquan/open-source-watchtower",
       "stargazers_count": 0,
       "description": "Automated health dashboard for monitoring public repositories",
-      "updated_at": "2026-10-26T04:47:47Z"
+      "updated_at": "2026-10-27T05:05:30Z"
     },
     {
       "name": "Gliangquan",
@@ -66,7 +66,7 @@
       "html_url": "https://github.com/Gliangquan/Gliangquan",
       "stargazers_count": 0,
       "description": "Gliangquan profile repository with AI-operated README",
-      "updated_at": "2026-10-26T04:40:37Z"
+      "updated_at": "2026-10-27T04:58:11Z"
     },
     {
       "name": "ecuflash-pi-build",
